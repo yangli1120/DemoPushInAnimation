@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoPushInAnimation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="poem">
+                                                                                            将进酒\n 
+                          \t\t\t\t\t\t\t\t\t\t李白\n
+               \t君不见，黄河之水天上来，奔流到海不复回。\n
+               \t君不见，高堂明镜悲白发，朝如青丝暮成雪。\n\n
+               \t人生得意须尽欢，莫使金樽空对月。\n
+               \t天生我材必有用，千金散尽还复来。\n
+               \t烹羊宰牛且为乐，会须一饮三百杯。\n
+               \t岑夫子，丹丘生，将进酒，杯莫停。\n\n
+               \t与君歌一曲，请君为我倾耳听。\n
+               \t钟鼓馔玉不足贵，但愿长醉不复醒。\n
+               \t古来圣贤皆寂寞，惟有饮者留其名。\n
+               \t陈王昔时宴平乐，斗酒十千恣欢谑。\n
+               \t主人何为言少钱，径须沽取对君酌。\n
+               \t五花马，千金裘，\n
+               \t呼儿将出换美酒，与尔同销万古愁！\n
+    </string>
+    <string name="open_btn">Open</string>
+    <string name="close_btn">Close</string>
+</resources>
